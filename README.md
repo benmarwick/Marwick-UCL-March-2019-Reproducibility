@@ -2,7 +2,7 @@
 
 This repository contains two of the presentations on reproducible research and open science that I gave at the University College London in March 2019. 
 
-**First**, I presented a workshop on using the [rrtools](https://github.com/benmarwick/rrtools) package to easily make reproducble manuscripts: "Rapid On-ramps to Reproducible Research for R Users" ([slides](https://benmarwick.github.io/Marwick-Oxford-Nov-2018-Reproducibility/Marwick-Oxford-Nov-2018-Workshop.html#1))
+**First**, I presented a workshop on using the [rrtools](https://github.com/benmarwick/rrtools) package to easily make reproducble manuscripts: "Rapid On-ramps to Reproducible Research for R Users" ([slides]((https://benmarwick.github.io/Marwick-UCL-March-2019-Reproducibility-Workshop#1))
 
 This was a hands-on activity, with the participants given these instructions in advance: 
 
